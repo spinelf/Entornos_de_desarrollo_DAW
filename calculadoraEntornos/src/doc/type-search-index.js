@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ed_calculadora","l":"Cociente"},{"p":"ed_calculadora","l":"Main"},{"p":"ed_calculadora","l":"Producto"},{"p":"ed_calculadora","l":"Restar"},{"p":"ed_calculadora","l":"Sumar"}];updateSearchResults();
