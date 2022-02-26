@@ -101,9 +101,8 @@ public class Cociente {
 	 * 
 	 * @author Silvia Piñel Fañanás
 	 */
-		public double Division_double () 
-		{
-		
+		public double Division_double () { 
+			
 		double resultado;
 		resultado = num1r/num2r;
 		return Math.round(resultado*1000.0)/1000.0;
